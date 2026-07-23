@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Cyclohexanemethanol, 2,4-dimethyl-",
+        "cas_number": "68480-15-9",
+        "synonyms": [
+            "(2,4-Dimethylcyclohexyl)methanol",
+            "2,4-Dimethylcyclohexanemethanol"
+        ],
+        "type": ["RESTRICTION"],
+        "limits": {
+            "category_1": 0.0013,
+            "category_2": 0.39,
+            "category_3": 0.0013,
+            "category_4": 0.0013,
+            "category_5A": 1.3,
+            "category_5B": 0.0013,
+            "category_5C": 0.0013,
+            "category_5D": 0.00043,
+            "category_6": 0.0013,
+            "category_7A": 0.0013,
+            "category_7B": 0.0013,
+            "category_8": 0.00043,
+            "category_9": 3.1,
+            "category_10A": 3.1,
+            "category_10B": 0.0013,
+            "category_11A": 0.00043,
+            "category_11B": 0.00043,
+            "category_12": 0.0013
+        }
+    },
+    {
+        "name": "3,6,7-Trimethyl-2,6-octadienal",
+        "cas_number": "1891-67-4",
+        "synonyms": [
+            "3,6,7-Trimethyl-2,6-octadienal",
+            "2,6-Octadienal, 3,6,7-trimethyl-"
+        ],
+        "type": ["RESTRICTION"],
+        "limits": {
+            "category_1": 0.011,
+            "category_2": 0.032,
+            "category_3": 0.023,
+            "category_4": 0.60,
+            "category_5A": 0.15,
+            "category_5B": 0.034,
+            "category_5C": 0.069,
+            "category_5D": 0.011,
+            "category_6": 0.011,
+            "category_7A": 0.011,
+            "category_7B": 0.011,
+            "category_8": 0.011,
+            "category_9": 0.24,
+            "category_10A": 0.011,
+            "category_10B": 2.4,
+            "category_11A": 0.011,
+            "category_11B": 0.011,
+            "category_12": 80.0
+        }
+    },
+    {
+        "name": "2-Cyclohexylidene-2-ortho-tolylacetonitrile",
+        "cas_number": "916887-53-1",
+        "synonyms": [
+            "2-Cyclohexylidene-2-ortho-tolylacetonitrile",
+            "2-Cyclohexylidene-2-o-tolylacetonitrile",
+            "Benzeneacetonitrile, alpha-cyclohexylidene-2-methyl-",
+            "Benzeneacetonitrile, α-cyclohexylidene-2-methyl-",
+            "Petalia"
+        ],
+        "type": ["RESTRICTION"],
+        "limits": {
+            "category_1": 0.066,
+            "category_2": 0.027,
+            "category_3": 0.33,
+            "category_4": 0.52,
+            "category_5A": 0.13,
+            "category_5B": 0.13,
+            "category_5C": 0.13,
+            "category_5D": 0.043,
+            "category_6": 0.066,
+            "category_7A": 0.99,
+            "category_7B": 0.99,
+            "category_8": 0.043,
+            "category_9": 1.0,
+            "category_10A": 0.066,
+            "category_10B": 3.6,
+            "category_11A": 0.043,
+            "category_11B": 0.043,
+            "category_12": 66.0
+        }
+    },
+    {
+        "name": "2-Hexylidenecyclohexan-1-one",
+        "cas_number": "16429-07-5",
+        "synonyms": [
+            "2-Hexylidenecyclohexan-1-one",
+            "2-Hexylidenecyclohexanone",
+            "Cyclohexanone, 2-hexylidene-"
+        ],
+        "type": ["RESTRICTION"],
+        "limits": {
+            "category_1": 0.023,
+            "category_2": 0.0069,
+            "category_3": 0.14,
+            "category_4": 0.13,
+            "category_5A": 0.033,
+            "category_5B": 0.033,
+            "category_5C": 0.033,
+            "category_5D": 0.033,
+            "category_6": 0.076,
+            "category_7A": 0.26,
+            "category_7B": 0.26,
+            "category_8": 0.014,
+            "category_9": 0.25,
+            "category_10A": 0.90,
+            "category_10B": 0.90,
+            "category_11A": 0.50,
+            "category_11B": 0.50,
+            "category_12": null
+        }
+    },
+    {
+        "name": "2-Octen-4-one",
+        "cas_number": "4643-27-0",
+        "synonyms": [
+            "2-Octen-4-one",
+            "Butyl propenyl ketone",
+            "Oct-2-en-4-one",
+            "Propenyl butyl ketone",
+            "Strawbinone (commercial name)"
+        ],
+        "type": ["RESTRICTION"],
+        "limits": {
+            "category_1": 0.0085,
+            "category_2": 0.0025,
+            "category_3": 0.051,
+            "category_4": 0.047,
+            "category_5A": 0.012,
+            "category_5B": 0.012,
+            "category_5C": 0.012,
+            "category_5D": 0.012,
+            "category_6": 0.028,
+            "category_7A": 0.096,
+            "category_7B": 0.096,
+            "category_8": 0.0050,
+            "category_9": 0.092,
+            "category_10A": 0.33,
+            "category_10B": 0.33,
+            "category_11A": 0.18,
+            "category_11B": 0.18,
+            "category_12": null
+        }
+    },
+    {
+        "name": "alpha-Cyclohexylidene benzeneacetonitrile",
+        "cas_number": "10461-98-0",
+        "synonyms": [
+            "alpha-Cyclohexylidene benzeneacetonitrile",
+            "α-Cyclohexylidene benzeneacetonitrile",
+            ".delta.1,.alpha.-Cyclohexaneacetonitrile, .alpha.-phenyl-",
+            ".δ.1,.α.-Cyclohexaneacetonitrile, .α.-phenyl-",
+            "2-Cyclohexylidene-2-phenylacetonitrile",
+            "Benzeneacetonitrile, alpha-cyclohexylidene-",
+            "Benzeneacetonitrile, α-cyclohexylidene-",
+            "Peonile (commercial name)",
+            "Rosinile (commercial name)",
+            "Sensinile (commercial name)"
+        ],
+        "type": ["RESTRICTION"],
+        "limits": {
+            "category_1": 0.052,
+            "category_2": 0.027,
+            "category_3": 0.47,
+            "category_4": 0.52,
+            "category_5A": 0.13,
+            "category_5B": 0.13,
+            "category_5C": 0.13,
+            "category_5D": 0.043,
+            "category_6": 0.052,
+            "category_7A": 0.94,
+            "category_7B": 0.94,
+            "category_8": 0.043,
+            "category_9": 1.0,
+            "category_10A": 2.9,
+            "category_10B": 3.6,
+            "category_11A": 0.043,
+            "category_11B": 0.043,
+            "category_12": null
+        }
+    },
+    {
+        "name": "Allyl 3-cyclohexylpropionate",
+        "cas_number": "2705-87-5",
+        "synonyms": [
+            "Allyl 3-cyclohexylpropionate",
+            "2-Propen-1-yl cyclohexanepropionate",
+            "Allyl 3-cyclohexylpropanoate",
+            "Allyl beta-cyclohexylpropionate",
+            "Allyl β-cyclohexylpropionate",
+            "Allyl cyclohexanepropionate",
+            "Allyl cyclohexylpropionate",
+            "Allyl hexahydrophenylpropionate",
+            "Cyclohexanepropionic acid, 2-propenyl ester",
+            "Prop-2-enyl 3-cyclohexylpropanoate",
+            "Cyclohexylpropionic acid allyl ester"
+        ],
+        "type": ["RESTRICTION", "SPECIFICATION"],
+        "specification_text": "According to the IFRA Specification Standard of Allyl esters, Allyl esters should only be used when the level of free Allylalcohol in the ester is less than 0.1%. This recommendation is based on the delayed irritant potential of Allylalcohol. Please also refer to the IFRA Specification Standard Allyl esters.",
+        "limits": {
+            "category_1": 0.085,
+            "category_2": 0.025,
+            "category_3": 0.35,
+            "category_4": 0.47,
+            "category_5A": 0.12,
+            "category_5B": 0.12,
+            "category_5C": 0.12,
+            "category_5D": 0.040,
+            "category_6": 0.28,
+            "category_7A": 0.70,
+            "category_7B": 0.70,
+            "category_8": 0.040,
+            "category_9": 0.92,
+            "category_10A": 0.7,
+            "category_10B": 3.3,
+            "category_11A": 0.040,
+            "category_11B": 0.040,
+            "category_12": null
+        }
+    }
+]
